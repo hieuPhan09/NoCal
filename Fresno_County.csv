@@ -1,40 +1,40 @@
-ID,STATE_NAME,COUNTY
-1736,California,Fresno
-1776,California,Fresno
-1781,California,Fresno
-1822,California,Fresno
-1852,California,Fresno
-1869,California,Fresno
-1912,California,Fresno
-1914,California,Fresno
-1967,California,Fresno
-1996,California,Fresno
-2055,California,Fresno
-2057,California,Fresno
-2077,California,Fresno
-2083,California,Fresno
-2084,California,Fresno
-2150,California,Fresno
-2175,California,Fresno
-2178,California,Fresno
-2213,California,Fresno
-2220,California,Fresno
-2257,California,Fresno
-2265,California,Fresno
-2356,California,Fresno
-2374,California,Fresno
-2382,California,Fresno
-2473,California,Fresno
-2503,California,Fresno
-2525,California,Fresno
-2565,California,Fresno
-2571,California,Fresno
-2593,California,Fresno
-2611,California,Fresno
-2651,California,Fresno
-2672,California,Fresno
-2698,California,Fresno
-2704,California,Fresno
-2742,California,Fresno
-2798,California,Fresno
-2806,California,Fresno
+ID,STATE_NAME,COUNTY,CITY,LATITUDE,LONGITUDE
+1736,California,Fresno,Auberry,37.072635,-119.457202
+1776,California,Fresno,"Big Creek",37.205,-119.245
+1781,California,Fresno,Biola,36.802222,-120.015278
+1822,California,Fresno,Burrel,36.488333,-119.984167
+1852,California,Fresno,"Cantua Creek",36.492123,-120.335252
+1869,California,Fresno,Caruthers,36.535847,-119.844581
+1912,California,Fresno,Clovis,36.8243,-119.6824
+1914,California,Fresno,Coalinga,36.162435,-120.348928
+1967,California,Fresno,"Del Rey",36.654306,-119.59291
+1996,California,Fresno,Dunlap,36.744635,-119.089931
+2055,California,Fresno,Firebaugh,36.8651,-120.470048
+2057,California,Fresno,"Five Points",36.429444,-120.101944
+2077,California,Fresno,Fowler,36.628153,-119.671025
+2083,California,Fresno,Fresno,36.841107,-119.800359
+2084,California,Fresno,Friant,37.002416,-119.696501
+2150,California,Fresno,Helm,36.499231,-120.093598
+2175,California,Fresno,Hume,36.785,-118.912778
+2178,California,Fresno,Huron,36.237144,-120.101964
+2213,California,Fresno,Kerman,36.730576,-120.072444
+2220,California,Fresno,Kingsburg,36.508047,-119.543298
+2257,California,Fresno,Lakeshore,37.253,-119.1738
+2265,California,Fresno,Laton,36.437834,-119.715565
+2356,California,Fresno,Mendota,36.742365,-120.409287
+2374,California,Fresno,Miramonte,36.68938,-119.047718
+2382,California,Fresno,"Mono Hot Springs",37.168,-119.2095
+2473,California,Fresno,"Orange Cove",36.624283,-119.313502
+2503,California,Fresno,Parlier,36.610265,-119.537482
+2525,California,Fresno,Piedra,36.810278,-119.381111
+2565,California,Fresno,Prather,36.993799,-119.526771
+2571,California,Fresno,"Raisin City",36.598928,-119.903158
+2593,California,Fresno,Reedley,36.604406,-119.437785
+2611,California,Fresno,Riverdale,36.429525,-119.871953
+2651,California,Fresno,"San Joaquin",36.605869,-120.188934
+2672,California,Fresno,Sanger,36.7243,-119.547796
+2698,California,Fresno,Selma,36.569524,-119.617026
+2704,California,Fresno,"Shaver Lake",37.139695,-119.273031
+2742,California,Fresno,"Squaw Valley",36.707146,-119.181449
+2798,California,Fresno,Tollhouse,36.99434,-119.391415
+2806,California,Fresno,Tranquillity,36.658376,-120.261655
